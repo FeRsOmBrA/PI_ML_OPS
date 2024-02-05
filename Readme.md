@@ -8,8 +8,7 @@
 
 <hr>  
 <div align="center">
-    <img src="https://avatars.githubusercontent.com/u/89277425?v=4
-    " alt="hero" style="width: 200px; height: auto; border-radius: 50%;">
+    <img src="./img/hero.jpg" alt="hero" style="width: 200px; height: auto; border-radius: 50%;">
     <h3> Andres Castaño </h3>
     <p>Data Scientist Associate | Geological Engineer</p>
     <a href="URL_GITHUB" target="_blank">
