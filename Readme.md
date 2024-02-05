@@ -11,10 +11,10 @@
     <img src="./img/hero.jpg" alt="hero" style="width: 200px; height: auto; border-radius: 50%;">
     <h3> Andres Castaño </h3>
     <p>Data Scientist Associate | Geological Engineer</p>
-    <a href="URL_GITHUB" target="_blank">
+    <a href="https://github.com/FeRsOmBrA" target="_blank">
         <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
     </a>
-    <a href="URL_LINKEDIN" target="_blank">
+    <a href="https://www.linkedin.com/in/ferney-castano/" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
     </a>
 </div>
