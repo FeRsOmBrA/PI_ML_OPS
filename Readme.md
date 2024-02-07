@@ -58,7 +58,7 @@ Implementamos un sistema de recomendación de videojuegos para Steam mediante el
 
 - [API en Render](https://pl-ml-ops.onrender.com/docs)
 - [Dataset](https://drive.google.com/drive/folders/1HqBG2-sUkz_R3h1dZU5F2uAzpRn7BSpj)
-- [Video-Presentación] (https://drive.google.com/file/d/1NmkVjW49HoHEfNJf8_muwxmmo0G_EFRD/view?usp=sharing)
+- [Video-Presentación](https://drive.google.com/file/d/1NmkVjW49HoHEfNJf8_muwxmmo0G_EFRD/view?usp=sharing)
 
 <hr>  
 
