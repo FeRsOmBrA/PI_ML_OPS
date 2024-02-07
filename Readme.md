@@ -36,7 +36,7 @@ En este proyecto, hemos desarrollado un sistema de recomendación basado en el d
 
 ### Modelo de Aprendizaje Automático
 
-- Diseñamos un modelo de recomendación utilizando técnicas de filtrado colaborativo y similitud del coseno para recomendar juegos a los usuarios basándonos en sus preferencias y comportamiento de juego.
+Implementamos un sistema de recomendación de videojuegos para Steam mediante el algoritmo K Vecinos Más Cercanos (K-NN) y filtrado colaborativo, comenzando con el preprocesamiento de datos para construir una matriz de utilidad optimizada como matriz sparse. Este enfoque facilita la identificación de patrones de juego, utilizando la métrica de similitud del coseno para entrenar el modelo y seleccionar los 20 vecinos más cercanos, equilibrando precisión y eficiencia. La generación de recomendaciones personalizadas se basa en similitudes de patrones de juego, mejorando la experiencia del usuario en Steam. Este sistema demuestra un avance en la personalización de la experiencia de juego, con potencial para futuras mejoras en complejidad y precisión mediante la integración de más datos y técnicas avanzadas.
 
 ### Despliegue
 
